@@ -2,7 +2,7 @@
 
 Welcome to the algorithms_python3 wiki!
 
-Here I organize all the Python3 coding files that I’ve learned.
+Here I will organize all the Python3 coding files that I’ve learned.
 
 ex1.py: A Good First Program
 ex2.py: Comments and Pound Characters
